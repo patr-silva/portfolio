@@ -130,7 +130,7 @@ function NavbarI() {
               })}
             </div>
 
-            <a className="nav-button" href="#connect">
+            <a className='nav-button' href='#connect'>
               <span>Let's talk</span>
             </a>
           </span>

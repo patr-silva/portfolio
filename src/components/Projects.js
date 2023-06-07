@@ -5,10 +5,9 @@ import TrackVisibility from "react-on-screen";
 
 import savethechild from "../assets/img/savethechild.png";
 import REUS from "../assets/img/REUS.png";
-import houseMarket from '../assets/img/houseMarket.png'
-import hangout from '../assets/img/hangout.png';
-import bistroCafe from '../assets/img/bistroCafe.png'
-
+import houseMarket from "../assets/img/houseMarket.png";
+import hangout from "../assets/img/hangout.png";
+import bistroCafe from "../assets/img/bistroCafe.png";
 
 const Projects = () => {
   const projects = [
@@ -64,8 +63,6 @@ const Projects = () => {
                     })}
                   </Row>
                 </Tab.Pane>
-                <Tab.Pane eventKey='second'>loren ip</Tab.Pane>
-                <Tab.Pane eventKey='third'>fgdd fs</Tab.Pane>
               </Tab.Content>
             </Tab.Container>
           </Col>
