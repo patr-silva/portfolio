@@ -62,6 +62,10 @@ a:hover {
   text-decoration: none;
 }
 
+a:visited {
+  text-decoration: none;
+}
+
 img {
   width: 100%;
   height: auto;
@@ -319,7 +323,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   background-color: transparent;
   transition: 0.3s ease-in-out;
 }
- .home-button span {
+.home-button span {
   z-index: 1;
 }
 .home-button::before {
@@ -374,7 +378,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 .skill-slider .item img {
   width: 40%;
-  height:45%;
+  height: 45%;
   margin: 20px auto 0 auto;
 }
 
@@ -455,7 +459,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   z-index: -4;
 }
 
-.proj-img{
+.proj-img {
   float: left;
   height: 30vh;
   object-fit: cover;

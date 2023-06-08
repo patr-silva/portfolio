@@ -15,26 +15,31 @@ const Projects = () => {
       title: "Bistro Cafe",
       description: "ReactJS",
       imgUrl: bistroCafe,
+      url: "https://bistro-cafe-murex.vercel.app/",
     },
     {
-      title: "House Market",
+      title: "Prime Estate",
       description: "ReactJS & Firebase",
       imgUrl: houseMarket,
+      url: "https://prime-estate.vercel.app/",
     },
     {
       title: "Hangout Haven",
-      description: "NextJS",
+      description: "NextJS & TailwindCSS",
       imgUrl: hangout,
+      url: "https://github.com/patr-silva/hangout-haven",
     },
     {
       title: "Save the Child",
       description: "JS, HTML & CSS",
       imgUrl: savethechild,
+      url: "https://patr-silva.github.io/Project-I-Save-the-Child/",
     },
     {
       title: "REUS",
       description: "ReactJS",
       imgUrl: REUS,
+      url: "https://ironhack-reus.netlify.app/",
     },
   ];
 
