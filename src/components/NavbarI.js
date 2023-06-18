@@ -66,7 +66,7 @@ function NavbarI() {
           <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/CVEng.pdf",
+      href: "/CvEng.pdf",
       download: true,
     },
   ];
