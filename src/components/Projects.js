@@ -8,24 +8,26 @@ import REUS from "../assets/img/REUS.png";
 import houseMarket from "../assets/img/houseMarket.png";
 import hangout from "../assets/img/hangout.png";
 import bistroCafe from "../assets/img/bistroCafe.png";
+import inspquote from "../assets/img/inspquote.png";
+import wordle from "../assets/img/wordle.png";
 
 const Projects = () => {
   const projects = [
     {
       title: "Bistro Cafe",
-      description: "ReactJS",
+      description: "React",
       imgUrl: bistroCafe,
       url: "https://bistro-cafe-murex.vercel.app/",
     },
     {
       title: "Prime Estate",
-      description: "ReactJS & Firebase",
+      description: "React & Firebase",
       imgUrl: houseMarket,
       url: "https://prime-estate.vercel.app/",
     },
     {
       title: "Hangout Haven",
-      description: "NextJS & TailwindCSS",
+      description: "Next.js & TailwindCSS",
       imgUrl: hangout,
       url: "https://github.com/patr-silva/hangout-haven",
     },
@@ -36,8 +38,20 @@ const Projects = () => {
       url: "https://patr-silva.github.io/Project-I-Save-the-Child/",
     },
     {
+      title: "InspQuote",
+      description: "Next.js",
+      imgUrl: inspquote,
+      url: "https://inspquote.vercel.app/",
+    },
+    {
+      title: "Wordle",
+      description: "React",
+      imgUrl: wordle,
+      url: "https://wordle-patr-silva.vercel.app/",
+    },
+    {
       title: "REUS",
-      description: "ReactJS",
+      description: "React",
       imgUrl: REUS,
       url: "https://ironhack-reus.netlify.app/",
     },
