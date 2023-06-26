@@ -10,6 +10,7 @@ import hangout from "../assets/img/hangout.png";
 import bistroCafe from "../assets/img/bistroCafe.png";
 import inspquote from "../assets/img/inspquote.png";
 import wordle from "../assets/img/wordle.png";
+import dalle from "../assets/img/dall-e.png";
 
 const Projects = () => {
   const projects = [
@@ -48,6 +49,12 @@ const Projects = () => {
       description: "React",
       imgUrl: wordle,
       url: "https://wordle-patr-silva.vercel.app/",
+    },
+    {
+      title: "DALL-E 2.0",
+      description: "React, TailwindCSS, MongoDB, Express",
+      imgUrl: dalle,
+      url: "https://soft-dieffenbachia-f427e0.netlify.app/",
     },
     {
       title: "REUS",
