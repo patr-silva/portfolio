@@ -11,6 +11,7 @@ import bistroCafe from "../assets/img/bistroCafe.png";
 import inspquote from "../assets/img/inspquote.png";
 import wordle from "../assets/img/wordle.png";
 import dalle from "../assets/img/dall-e.png";
+import carHunter from '../assets/img/car-hunter.png'
 
 const Projects = () => {
   const projects = [
@@ -28,7 +29,7 @@ const Projects = () => {
     },
     {
       title: "Hangout Haven",
-      description: "Next.js & TailwindCSS",
+      description: "React, Next.js & TailwindCSS",
       imgUrl: hangout,
       url: "https://github.com/patr-silva/hangout-haven",
     },
@@ -55,6 +56,12 @@ const Projects = () => {
       description: "React, TailwindCSS, MongoDB, Express",
       imgUrl: dalle,
       url: "https://soft-dieffenbachia-f427e0.netlify.app/",
+    },
+    {
+      title: "Car Hunter",
+      description: "React, Next JS, TypeScript, TailwindCSS",
+      imgUrl: carHunter,
+      url: "https://car-hunter-nsya5gtzx-patr-silva.vercel.app",
     },
     {
       title: "REUS",
