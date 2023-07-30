@@ -55,19 +55,13 @@ const Projects = () => {
       title: "DALL-E 2.0",
       description: "React, TailwindCSS, MongoDB, Express",
       imgUrl: dalle,
-      url: "https://soft-dieffenbachia-f427e0.netlify.app/",
+      url: "https://classy-unicorn-3bf946.netlify.app/",
     },
     {
       title: "Car Hunter",
       description: "React, Next JS, TypeScript, TailwindCSS",
       imgUrl: carHunter,
       url: "https://car-hunter-nsya5gtzx-patr-silva.vercel.app",
-    },
-    {
-      title: "REUS",
-      description: "React",
-      imgUrl: REUS,
-      url: "https://ironhack-reus.netlify.app/",
     },
   ];
 
