@@ -4,7 +4,6 @@ import "animate.css";
 import TrackVisibility from "react-on-screen";
 
 import savethechild from "../assets/img/savethechild.png";
-import REUS from "../assets/img/REUS.png";
 import houseMarket from "../assets/img/houseMarket.png";
 import hangout from "../assets/img/hangout.png";
 import bistroCafe from "../assets/img/bistroCafe.png";
